@@ -1,2 +1,4 @@
 # 1302194045-UTS-MKPL
-NIM : 1302194045, Nama : Amanda Dinta Kurniyani
+Nama : Amanda Dinta Kurniyani
+NIM : 1302194045
+Teman Diskusi : Muhammad Nagashi Iswahyunianto Wibowo, Aldiansyah
