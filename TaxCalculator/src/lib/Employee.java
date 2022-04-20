@@ -20,6 +20,11 @@ public class Employee {
 	
 	private boolean isForeigner;
 	private boolean gender; //true = Laki-laki, false = Perempuan
+	public enum gender{
+		Laki-laki,
+		Perempuan
+	}
+	private gender gender;
 	
 	private int monthlySalary;
 	private int otherMonthlyIncome;
