@@ -6,8 +6,8 @@ public class Salary extends Employee {
 	private int otherMonthlyIncome;
 	private int annualDeductible;
 
-    public Salary (){
-
+   	public Salary (){
+ 
         super();
     }
 
@@ -32,9 +32,12 @@ public class Salary extends Employee {
 
 	public void setAnnualDeductible(int deductible) {	
 		this.annualDeductible = deductible;
+		
 	}
 
 	public void setAdditionalIncome(int income) {	
 		this.otherMonthlyIncome = income;
+		
 	}
 } 
+

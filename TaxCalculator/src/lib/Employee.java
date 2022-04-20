@@ -36,3 +36,5 @@ public class Employee {
 		childNames = new LinkedList<String>();
 		childIdNumbers = new LinkedList<String>();
 	}
+}
+
