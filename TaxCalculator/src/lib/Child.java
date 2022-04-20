@@ -1,8 +1,8 @@
 package lib;
 
 public class Child {
-    private List<String> childNames;
-	  private List<String> childIdNumbers;
+	private List<String> childNames;
+	private List<String> childIdNumbers;
 
     public Child (){
 
