@@ -13,6 +13,7 @@ public class Salary extends Employee {
 
 	public void setMonthlySalary(int grade) {	
 		if (grade == 1) {
+			
 			monthlySalary = 3000000;
 			if (isForeigner) {
 				monthlySalary = (int) (3000000 * 1.5);
